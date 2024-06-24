@@ -1,4 +1,4 @@
-module github.com/dave-gray101/v2keyauth
+module github.com/dave-gray101/fiber-keyauth-v2
 
 go 1.21
 
